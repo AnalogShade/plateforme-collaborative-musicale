@@ -1,0 +1,19 @@
+# Dépendances
+/node_modules
+
+# Build Next.js
+/.next/
+/out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environnement (Secrets)
+.env
+.env.local
+.env.*.local
+
+# Système
+.DS_Store
+Thumbs.db
